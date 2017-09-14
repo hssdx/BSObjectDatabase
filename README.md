@@ -1,3 +1,5 @@
+#【废弃，请使用 XQ_DAO】
+
 # BSObjectDatabase
 
 ## BSObjectDatabase 是一种基于 fbdb 的简单对象存储模型，支持面向对象的增删改查、批量增加数据、数据模型升级等特性
