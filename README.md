@@ -1,4 +1,4 @@
-#【废弃，请使用 XQ_DAO】
+# 【废弃，请使用 XQ_DAO】
 
 # BSObjectDatabase
 
